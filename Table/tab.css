@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+table{
+    margin: 0 25% auto 25%;
+    border: .2em solid yellow; 
+    border-collapse: collapse;  
+}
+.tH{
+    text-decoration: underline;
+    color:gold;
+    margin:.2rem;
+    font-size: xx-large;
+}
+.vertical{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    letter-spacing: .5em;
+    padding:3rem 0 3rem 0 ;
+}
+tr{
+  padding: 2em;  
+   
+}
